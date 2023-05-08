@@ -1,0 +1,11 @@
+Decisecond (tenths): 10^-1 second
+Centisecond (hundredths): 10^-2 second
+Millisecond (thousands): 10^-3 second
+Microsecond (millionths): 10^-6 second
+Nanosecond (billionths): 10^-9 second
+Picosecond (trillioniths: 10^-12 second
+Femtosecond (quadrillionth): 10^-15 second
+Attosecond (quintillionth): 10^-18 second
+Zeptosecond (sextillionth or trillionth of a billionth): 10^-21 second
+Yoctosecond (septillionth of a second): 10^-24 second
+Planic time (believed to be the shortest theoretically measurable time interval): 10^-44 second
